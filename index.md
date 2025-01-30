@@ -9,3 +9,7 @@
 Here I made 3 affirmations
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```

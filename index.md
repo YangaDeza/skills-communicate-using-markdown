@@ -8,4 +8,4 @@
 
 Here I made 3 affirmations
 
-![ This is an image of Nyan Cat] (https://wallpaperaccess.com/full/382751.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
